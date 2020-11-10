@@ -1,3 +1,0 @@
-userNumber = 1
-convertedNumber = userNumber * 25.4
-print (convertedNumber)
